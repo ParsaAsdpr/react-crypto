@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body{
+    font-family: koodak, sans-serif;
+    background-color: #1E293B;
+}
+
+@font-face {
+    font-family: koodak;
+    src: url(./Fonts/BKoodkBd.ttf);
+}
